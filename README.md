@@ -1,5 +1,6 @@
 # Reinforcement Learning: Deep Exploration Based on Psychological Expectation
-<img src="./imgs/NRND.jpg" >
+<img src="./imgs/ERND.jpg" >
+
 ## Getting Started
 ### Train
 ```bash
